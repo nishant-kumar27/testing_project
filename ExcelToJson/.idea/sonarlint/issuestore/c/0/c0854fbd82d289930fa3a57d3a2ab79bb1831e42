@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8˜İÃÿå1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(”¢ÁÔ8‰ŞÃÿå1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¨÷şÿÿÿÿ8‹ŞÃÿå1
+L
+java:S11971"*Move the array designators [] to the type.(ÎÍµúÿÿÿÿ8¤ŞÃÿå1
+^
+java:S10753"ARefactor your code to get this URI from a customizable parameter.(›ı¢ğ8¤ŞÃÿå1
+L	java:S1065"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8¥ŞÃÿå1
